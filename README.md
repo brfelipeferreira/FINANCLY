@@ -16,10 +16,10 @@
                 <a href="https://github.com/rafastrombeck" title="">R.A: 00111331</a>
             </td>
             <td align="center">
-                <img style="border-radius: 50%;" src="https://github.com/peragomes" 
+                <img style="border-radius: 50%;" src="https://github.com/peragomes.png?size=200" 
                 width="120px;" alt=""/>
                 <br/><sub><b>Victor Henrique</b></sub></a><br/>
-                <a href="https://github.com/" title="">R.A: 00111263</a>
+                <a href="https://github.com/peragomes" title="">R.A: 00111263</a>
             </td>
         </tr>
     </table>
